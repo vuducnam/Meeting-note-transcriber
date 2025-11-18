@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Note Transcriber",
+  "description": "An application to record audio from meetings, transcribe it in real-time, and use Gemini to format the transcript into structured notes based on customizable templates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
